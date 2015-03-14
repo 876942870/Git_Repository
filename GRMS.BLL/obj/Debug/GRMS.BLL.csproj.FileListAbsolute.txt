@@ -1,0 +1,16 @@
+G:\项目管理系统\GRMS\GRMS.BLL\obj\Debug\GRMS.BLL.csprojResolveAssemblyReference.cache
+G:\项目管理系统\GRMS\GRMS.BLL\bin\Debug\GRMS.BLL.dll
+G:\项目管理系统\GRMS\GRMS.BLL\bin\Debug\GRMS.BLL.pdb
+G:\项目管理系统\GRMS\GRMS.BLL\bin\Debug\GRMS.DAL.dll
+G:\项目管理系统\GRMS\GRMS.BLL\bin\Debug\GRMS.IBLL.dll
+G:\项目管理系统\GRMS\GRMS.BLL\bin\Debug\GRMS.IDAL.dll
+G:\项目管理系统\GRMS\GRMS.BLL\bin\Debug\GRMS.Model.dll
+G:\项目管理系统\GRMS\GRMS.BLL\bin\Debug\EntityFramework.dll
+G:\项目管理系统\GRMS\GRMS.BLL\bin\Debug\GRMS.DAL.pdb
+G:\项目管理系统\GRMS\GRMS.BLL\bin\Debug\GRMS.IBLL.pdb
+G:\项目管理系统\GRMS\GRMS.BLL\bin\Debug\GRMS.IDAL.pdb
+G:\项目管理系统\GRMS\GRMS.BLL\bin\Debug\GRMS.Model.pdb
+G:\项目管理系统\GRMS\GRMS.BLL\bin\Debug\EntityFramework.xml
+G:\项目管理系统\GRMS\GRMS.BLL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+G:\项目管理系统\GRMS\GRMS.BLL\obj\Debug\GRMS.BLL.dll
+G:\项目管理系统\GRMS\GRMS.BLL\obj\Debug\GRMS.BLL.pdb

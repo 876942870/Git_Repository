@@ -1,0 +1,10 @@
+G:\项目管理系统\GRMS\GRMS.IDAL\bin\Debug\GRMS.IDAL.dll
+G:\项目管理系统\GRMS\GRMS.IDAL\bin\Debug\GRMS.IDAL.pdb
+G:\项目管理系统\GRMS\GRMS.IDAL\bin\Debug\GRMS.Model.dll
+G:\项目管理系统\GRMS\GRMS.IDAL\bin\Debug\EntityFramework.dll
+G:\项目管理系统\GRMS\GRMS.IDAL\bin\Debug\GRMS.Model.pdb
+G:\项目管理系统\GRMS\GRMS.IDAL\bin\Debug\EntityFramework.xml
+G:\项目管理系统\GRMS\GRMS.IDAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+G:\项目管理系统\GRMS\GRMS.IDAL\obj\Debug\GRMS.IDAL.csprojResolveAssemblyReference.cache
+G:\项目管理系统\GRMS\GRMS.IDAL\obj\Debug\GRMS.IDAL.dll
+G:\项目管理系统\GRMS\GRMS.IDAL\obj\Debug\GRMS.IDAL.pdb

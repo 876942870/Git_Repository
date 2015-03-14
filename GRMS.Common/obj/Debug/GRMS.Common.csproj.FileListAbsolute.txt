@@ -1,0 +1,4 @@
+G:\项目管理系统\GRMS\GRMS.Common\bin\Debug\GRMS.Common.dll
+G:\项目管理系统\GRMS\GRMS.Common\bin\Debug\GRMS.Common.pdb
+G:\项目管理系统\GRMS\GRMS.Common\obj\Debug\GRMS.Common.dll
+G:\项目管理系统\GRMS\GRMS.Common\obj\Debug\GRMS.Common.pdb

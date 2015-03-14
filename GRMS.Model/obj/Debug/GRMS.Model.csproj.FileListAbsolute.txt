@@ -1,0 +1,7 @@
+G:\项目管理系统\GRMS\GRMS.Model\bin\Debug\GRMS.Model.dll
+G:\项目管理系统\GRMS\GRMS.Model\bin\Debug\GRMS.Model.pdb
+G:\项目管理系统\GRMS\GRMS.Model\bin\Debug\EntityFramework.dll
+G:\项目管理系统\GRMS\GRMS.Model\bin\Debug\EntityFramework.xml
+G:\项目管理系统\GRMS\GRMS.Model\bin\Debug\zh-Hans\EntityFramework.resources.dll
+G:\项目管理系统\GRMS\GRMS.Model\obj\Debug\GRMS.Model.dll
+G:\项目管理系统\GRMS\GRMS.Model\obj\Debug\GRMS.Model.pdb
